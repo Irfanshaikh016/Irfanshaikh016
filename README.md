@@ -10,6 +10,21 @@ Exploring the world of intelligent systems — from core ML algorithms and neura
 
 ## 📊 GitHub Stats
 
+# Hi, I'm Irfan Shaikh 👋
+
+## About Me
+
+AI & ML student interested in Data Science, Machine Learning,
+Data Analytics and AI-powered applications.
+
+## 🚀 Projects
+
+- RouteIQ 2.0 — AI-powered logistics and route optimization
+- Titanic Survival Analytics Dashboard
+- DetectAI
+
+## 📊 GitHub Statistics
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Irfanshaikh016&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
   &nbsp;
@@ -19,5 +34,4 @@ Exploring the world of intelligent systems — from core ML algorithms and neura
 <p align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Irfanshaikh016&theme=github-compact&hide_border=true&bg_color=00000000" />
 </p>
-
 ---
