@@ -78,7 +78,7 @@ I am a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** bas
 ## 📈 Live GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanshaikh016&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Live GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph-six-teal.vercel.app/graph?username=irfanshaikh016&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Live GitHub Activity Graph" />
 </p>
 
 ---
