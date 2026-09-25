@@ -109,13 +109,7 @@ I am a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** bas
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanshaikh016&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Profile Trophies" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
