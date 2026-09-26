@@ -65,12 +65,12 @@ I am a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** bas
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://my-stats-card.vercel.app/api?username=irfanshaikh016&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="Irfan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanshaikh016&theme=tokyonight&hide_border=true" width="49%" alt="Irfan's GitHub Streak" />
+  <img src="https://my-stats-card.vercel.app/api?username=irfanshaikh016&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Irfan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanshaikh016&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" alt="Irfan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://my-stats-card.vercel.app/api/top-langs/?username=irfanshaikh016&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://my-stats-card.vercel.app/api/top-langs/?username=irfanshaikh016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 ---
