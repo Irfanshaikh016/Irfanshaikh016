@@ -65,12 +65,12 @@ I am a **2nd-year B.Sc. Artificial Intelligence & Machine Learning student** bas
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=irfanshaikh016&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="Irfan's GitHub Stats" />
+  <img src="https://my-stats-card.vercel.app/api?username=irfanshaikh016&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="49%" alt="Irfan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanshaikh016&theme=tokyonight&hide_border=true" width="49%" alt="Irfan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=irfanshaikh016&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://my-stats-card.vercel.app/api/top-langs/?username=irfanshaikh016&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -215,19 +215,19 @@ A structured repository containing Python programming solutions, computational a
 
 <p align="center">
   <a href="https://github.com/irfanshaikh016/RouteIQ-2.0" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshaikh016&repo=RouteIQ-2.0&theme=tokyonight&hide_border=true" width="48%" alt="RouteIQ 2.0 Pin" />
+    <img src="https://my-stats-card.vercel.app/api/pin/?username=irfanshaikh016&repo=RouteIQ-2.0&theme=tokyonight&hide_border=true" width="48%" alt="RouteIQ 2.0 Pin" />
   </a>
   <a href="https://github.com/irfanshaikh016/Detech_Ai" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshaikh016&repo=Detech_Ai&theme=tokyonight&hide_border=true" width="48%" alt="Detech AI Pin" />
+    <img src="https://my-stats-card.vercel.app/api/pin/?username=irfanshaikh016&repo=Detech_Ai&theme=tokyonight&hide_border=true" width="48%" alt="Detech AI Pin" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/irfanshaikh016/python" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshaikh016&repo=python&theme=tokyonight&hide_border=true" width="48%" alt="Python Pin" />
+    <img src="https://my-stats-card.vercel.app/api/pin/?username=irfanshaikh016&repo=python&theme=tokyonight&hide_border=true" width="48%" alt="Python Pin" />
   </a>
   <a href="https://github.com/irfanshaikh016/data" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=irfanshaikh016&repo=data&theme=tokyonight&hide_border=true" width="48%" alt="Data Pin" />
+    <img src="https://my-stats-card.vercel.app/api/pin/?username=irfanshaikh016&repo=data&theme=tokyonight&hide_border=true" width="48%" alt="Data Pin" />
   </a>
 </p>
 
